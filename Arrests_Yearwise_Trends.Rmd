@@ -2,10 +2,7 @@
 title: "Arrests: Yearwise Trends"
 author: "Srujana"
 date: "11/21/2019"
-output: 
-  html_document: 
-    keep_md: yes
-    theme: readable
+output: github_document
 ---
 <style>
 body {
