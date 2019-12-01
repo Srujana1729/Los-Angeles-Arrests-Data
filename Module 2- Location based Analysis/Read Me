@@ -1,3 +1,8 @@
-This module is about calculating distances. In the first part of the module, we:
+This module is about calculating distances using the location data (provided as (latitude, longitude)). It is organized into two parts.
+In the first part of the module, we:
 1. use two different methods to calculate distances between the arrest locations and compare them
 2. calculate the number of arrests that occured in a radius of 2 km from the Bradbury Building.
+
+In the second part we:
+1. estimate the length of the road based on the addresses of the arrests and their respective location coordinates
+2. calculate the number of arrests per km on that road.
